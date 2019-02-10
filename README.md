@@ -2,6 +2,7 @@
 ![alt text](https://cdn-learn.adafruit.com/guides/cropped_images/000/001/574/medium640/thumb.jpg?1520544755)
 
 Python library for LSM9DS1 I2C.
+Writrn completly in Mara.
 
 
 # What is LSM9DS1
@@ -14,6 +15,8 @@ The LSM9DS1 includes an I2C serial bus interface supporting standard and fast mo
 Magnetic, accelerometer and gyroscope sensing can be enabled or set in power-down mode separately for smart power management.
 
 The LSM9DS1 is available in a plastic land grid array package (LGA) and it is guaranteed to operate over an extended temperature range from -40 °C to +85 °C.
+
+
 Tested with LSM9DS1(adafruit).
 This library is compatible with any board.
 
