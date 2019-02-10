@@ -1,4 +1,6 @@
 # LSM9DS1-I2C
+![alt text](https://cdn-learn.adafruit.com/guides/cropped_images/000/001/574/medium640/thumb.jpg?1520544755)
+
 Python library for LSM9DS1 I2C.
 
 
